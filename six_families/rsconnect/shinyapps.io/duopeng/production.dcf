@@ -1,0 +1,10 @@
+name: production
+title:
+username:
+account: duopeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1622246
+bundleId: 2708123
+url: https://duopeng.shinyapps.io/production/
+when: 1578260370.76707
