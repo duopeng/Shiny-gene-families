@@ -8,9 +8,9 @@ Open one of the app.R files in Rstudio and hit the "run app" button
 ```
 
 .
-├── six_families          # s
-├── ts
-├── ts_fullAlnDist
-├── ts_fullAlnDist_v2
+├── six_families          # Mucins, MASP, ts, DGF-1, RHS, GP63 (k-tuple distance) 
+├── ts                    # ts only, Brazil A4 and Y C6 (k-tuple distance)
+├── ts_fullAlnDist        # ts only, Brazil A4 and Y C6 (full-alignment distance)
+├── ts_fullAlnDist_v2     # ts only, Brazil A4 and Y C6 (refined full-alignment distance)
 └── README.md
 
