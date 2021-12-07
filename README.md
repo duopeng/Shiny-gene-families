@@ -1,6 +1,14 @@
 ## A Shiny app that visualizes clusters of gene family members based on genetic distance
 ### Multi-dimensional scaling is used to map genes onto a two-dimensional plot
 
+###
+This tool and associated data is reported in the following article:   
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009254
+
+###
+This tool is hosted at   
+https://shiny.ctegd.uga.edu/  
+
 ### Instructions
 Open one of the app.R files in Rstudio and hit the "run app" button
 
